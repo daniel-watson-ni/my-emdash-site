@@ -23,8 +23,10 @@
 		"enabled": true,
 	},
 	"worker_loaders": [
-		{
-			"binding": "LOADER",
-		},
-	],
+// Requires paid Workers plan. Uncomment to enable sandboxed plugins.
+// "worker_loaders": [
+//   {
+//     "binding": "LOADER",
+//   },
+// ],
 }
