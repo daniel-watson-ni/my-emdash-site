@@ -22,6 +22,13 @@
 	"observability": {
 		"enabled": true,
 	},
+	"kv_namespaces": [
+	  {
+	    "binding": "SESSION",
+	    "id": "50b54bd4f9fa423c917ec9b440722c2e"
+	  }
+	],
+
 // Requires paid Workers plan. Uncomment to enable sandboxed plugins.
 // "worker_loaders": [
 //   {
