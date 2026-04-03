@@ -22,7 +22,6 @@
 	"observability": {
 		"enabled": true,
 	},
-	"worker_loaders": [
 // Requires paid Workers plan. Uncomment to enable sandboxed plugins.
 // "worker_loaders": [
 //   {
